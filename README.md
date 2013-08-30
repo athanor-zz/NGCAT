@@ -2,5 +2,11 @@ NGCAT
 =====
 
 Playing around with next gen cataloging ideas
-test
-test2
+
+
+Tech to look at:
+Git
+MongoDB
+Catmandu
+Mojolicious
+ZeroMQ
